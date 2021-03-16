@@ -1,5 +1,11 @@
 # Kursmaterial Sketching with Hardware
 
+## Termine
+
+Nächster Termin: 17. oder 18.03. (nach Absprache), 16 Uhr
+
+### 16.03. - Orga, Elektronik 1
+
 ## Links
 
 ### Organisatorisches
