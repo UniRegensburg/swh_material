@@ -2,9 +2,11 @@
 
 ## Termine
 
-### Nächster Termin: 17.03., 16 Uhr (s.t.)
+### Nächster Termin: 19.03., 16 Uhr (s.t.)
 
 ### 16.03. - Orga, Elektronik 1
+
+### 17.03. - Elektronik 2, Datenblätter
 
 ## Links
 
