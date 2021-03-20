@@ -2,13 +2,15 @@
 
 ## Termine
 
-### Nächster Termin: 20.03., 18 Uhr
+### Nächster Termin: 23.03., 18 Uhr
 
 ### 16.03. - Orga, Elektronik 1
 
 ### 17.03. - Elektronik 2, Datenblätter
 
 ### 19.03. - Löten
+
+### 20.03. - Einführung Arduino
 
 ## Links
 
