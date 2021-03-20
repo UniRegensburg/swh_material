@@ -18,6 +18,18 @@ BigBlueButton (virtueller Hörsaal):
 Fritzing (Schaltpläne erstellen):
 <https://fritzing.org>
 
+### PlatformIO IDE
+
+VSCode: <https://platformio.org/install/ide?install=vscode>
+
+Atom: <https://platformio.org/install/ide?install=atom>
+
+Dokumentation: <https://docs.platformio.org/en/latest/what-is-platformio.html>
+
+### Arduino
+
+Dokumentation: <https://www.arduino.cc/reference/en/>
+
 ### Videos: Tangible Interaction
 
 Marble Answering Machine:
