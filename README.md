@@ -32,6 +32,8 @@ Dokumentation: <https://docs.platformio.org/en/latest/what-is-platformio.html>
 
 Dokumentation: <https://www.arduino.cc/reference/en/>
 
+NeoPixel-Library: <https://platformio.org/lib/show/28/Adafruit%20NeoPixel/examples> (Strandtest-Example)
+
 ### Videos: Tangible Interaction
 
 Marble Answering Machine:
