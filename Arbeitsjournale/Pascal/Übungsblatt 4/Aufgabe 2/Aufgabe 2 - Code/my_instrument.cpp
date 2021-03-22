@@ -11,10 +11,11 @@
 
 void setup(){
 	// Serial.begin(9600);
-    // speaker is on out pin
+    // define Modes of the Pins --> Buttons on INPUT Pins, Speaker on OUTPUT Pins
 	pinMode(SPEAKER_PIN, OUTPUT);
-	// buttons are on input pins
-	pinMode(LEFT_BTN_PIN, INPUT_PULLUP);
+	pinMode(LEFT_BTN_PIN, INPUT);
+	pinMode(MID_BTN_PIN, INPUT);
+	pinMode(RIGHT_BTN_PIN, INPUT);
 }
 
 void loop(){
