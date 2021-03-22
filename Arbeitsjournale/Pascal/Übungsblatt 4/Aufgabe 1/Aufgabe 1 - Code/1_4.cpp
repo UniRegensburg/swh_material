@@ -45,7 +45,6 @@ void loop()
 	else{
 		digitalWrite(mid, LOW);
 	}
-	// 2**0
 	if(residual == 1){
 		digitalWrite(right, HIGH);
 		residual -= 1;
