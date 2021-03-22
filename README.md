@@ -36,6 +36,12 @@ Dokumentation: <https://www.arduino.cc/reference/en/>
 
 NeoPixel-Library: <https://platformio.org/lib/show/28/Adafruit%20NeoPixel/examples> (Strandtest-Example)
 
+LED-Matrix-Library: <https://platformio.org/lib/show/25/Adafruit-LED-Backpack> (Matrix 8x8 Example)
+
+### Further Reading
+
+Vergleichstabelle I²C, SPI, UART: <https://diyi0t.com/spi-tutorial-for-arduino-and-esp8266/>
+
 ### Videos: Tangible Interaction
 
 Marble Answering Machine:
