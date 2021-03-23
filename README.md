@@ -2,7 +2,7 @@
 
 ## Termine
 
-### Nächster Termin: 23.03., 18 Uhr
+### Nächster Termin: 23.03., 16 Uhr
 
 ### 16.03. - Orga, Elektronik 1
 
