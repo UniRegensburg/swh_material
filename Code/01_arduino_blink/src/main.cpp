@@ -13,7 +13,7 @@ void setup()
 void loop()
 {
     digitalWrite(13, HIGH); // set the voltage of pin 13 to HIGH (5V) so the LED turns on
-    delay(100);            // wait for 1000 milliseconds
+    delay(1000);            // wait for 1000 milliseconds
     digitalWrite(13, LOW);  // set the voltage of pin 13 to LOW (0V)
-    delay(100);            // wait for 1000 milliseconds
+    delay(1000);            // wait for 1000 milliseconds
 }
