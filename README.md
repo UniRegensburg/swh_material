@@ -2,7 +2,7 @@
 
 ## Termine
 
-### Nächster Termin: 23.03., 16 Uhr
+### Nächster Termin: 25.03., 11 Uhr
 
 ### 16.03. - Orga, Elektronik 1
 
@@ -11,6 +11,8 @@
 ### 19.03. - Löten
 
 ### 20.03. - Einführung Arduino
+
+### 23.03. - Libraries & Serielle Protokolle
 
 ## Links
 
