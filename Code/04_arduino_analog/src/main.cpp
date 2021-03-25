@@ -16,11 +16,14 @@ void setup()
 void loop()
 {
     // analogRead() returns a value between 0 and 1023
-    int brightness = analogRead(POTI_PIN);
+    int sensor_brightness = analogRead(POTI_PIN);
 
-    analogWrite(LED_PIN, brightness);
+    // map brightness from 10 bit to 8 bit
+    int led_brightness = map(sensor_brightness, 0, 1023, 0, 255):
 
-    Serial.println(brightness);
+    analogWrite(LED_PIN, led_brightness);
+
+    Serial.println(led_brightness);
 
     delay(100);
 }
