@@ -42,6 +42,10 @@ NeoPixel-Library: <https://platformio.org/lib/show/28/Adafruit%20NeoPixel/exampl
 
 LED-Matrix-Library: <https://platformio.org/lib/show/25/Adafruit-LED-Backpack> (Matrix 8x8 Example)
 
+### M5Stack
+
+Code-Samples: <https://github.com/m5stack/M5Stack/tree/master/examples/Basics>
+
 ### Further Reading
 
 Vergleichstabelle I²C, SPI, UART: <https://diyi0t.com/spi-tutorial-for-arduino-and-esp8266/>
