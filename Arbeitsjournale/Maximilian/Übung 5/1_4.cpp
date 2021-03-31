@@ -9,6 +9,7 @@
 // Declare our NeoPixel strip object:
 Adafruit_NeoPixel strip(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
 
+long lastMillis = 0;
 int intervall = 500;
 uint32_t off = strip.Color(0, 0, 0);
 
@@ -18,8 +19,9 @@ void runLight(uint32_t color)
 
   while (runInc <= LED_COUNT)
   {
-    if (millis() % intervall == 0)
+    if (millis() - lastMillis >= intervall)
     {
+      lastMillis = millis();
       strip.setPixelColor(runInc, strip.getPixelColor(runInc - 1));
       strip.show();
       runInc++;
@@ -43,8 +45,10 @@ void loop()
 
   int digR = digitalRead(BUTTON_PIN);
 
-  if (millis() % intervall == 0)
+  if (millis() - lastMillis >= intervall)
   {
+    lastMillis = millis();
+    
     if (digR == HIGH)
     {
       runLight(strip.Color((rand() % 255), (rand() % 255), (rand() % 255)));
