@@ -2,7 +2,10 @@
 
 ## Termine
 
-### Nächster Termin: TBD
+### Nächste Termine:
+
+ * **07.04., 14:00** (Design, Themenfindung)
+ * **08.04., 16:00** (Projektkickoff)
 
 ### 16.03. - Orga, Elektronik 1
 
