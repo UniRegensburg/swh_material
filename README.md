@@ -53,7 +53,13 @@ Code-Samples: <https://github.com/m5stack/M5Stack/tree/master/examples/Basics>
 
 Vergleichstabelle I²C, SPI, UART: <https://diyi0t.com/spi-tutorial-for-arduino-and-esp8266/>
 
-### Videos: Tangible Interaction
+### Videos:
+
+#### SWH
+
+Projekte früherer Kurse (Playlist): <https://www.youtube.com/watch?v=nFEpF94u6lQ&list=PL-512T1Of_fZrIw4zH9yIVQ-0CUhoZhFW>
+
+#### Tangible Interaction
 
 Marble Answering Machine:
 <https://www.youtube.com/watch?v=RgVbXV1krgU>
