@@ -2,7 +2,10 @@
 
 ## Termine
 
-### Nächster Termin: TBD
+### Nächste Termine:
+
+ * **07.04., 14:00** (Design, Themenfindung)
+ * **08.04., 16:00** (Projektkickoff)
 
 ### 16.03. - Orga, Elektronik 1
 
@@ -25,6 +28,9 @@ BigBlueButton (virtueller Hörsaal):
 
 Fritzing (Schaltpläne erstellen):
 <https://fritzing.org>
+
+Mural (Brainstorming):
+<https://app.mural.co/t/urmi4580/m/urmi4580/1617786241711/8d9c314af7393b0c50526fad23897fffb63e86d9>
 
 ### PlatformIO IDE
 
@@ -50,7 +56,13 @@ Code-Samples: <https://github.com/m5stack/M5Stack/tree/master/examples/Basics>
 
 Vergleichstabelle I²C, SPI, UART: <https://diyi0t.com/spi-tutorial-for-arduino-and-esp8266/>
 
-### Videos: Tangible Interaction
+### Videos:
+
+#### SWH
+
+Projekte früherer Kurse (Playlist): <https://www.youtube.com/watch?v=nFEpF94u6lQ&list=PL-512T1Of_fZrIw4zH9yIVQ-0CUhoZhFW>
+
+#### Tangible Interaction
 
 Marble Answering Machine:
 <https://www.youtube.com/watch?v=RgVbXV1krgU>
