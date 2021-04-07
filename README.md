@@ -29,6 +29,9 @@ BigBlueButton (virtueller Hörsaal):
 Fritzing (Schaltpläne erstellen):
 <https://fritzing.org>
 
+Mural (Brainstorming):
+<https://app.mural.co/t/urmi4580/m/urmi4580/1617786241711/8d9c314af7393b0c50526fad23897fffb63e86d9>
+
 ### PlatformIO IDE
 
 VSCode: <https://platformio.org/install/ide?install=vscode>
