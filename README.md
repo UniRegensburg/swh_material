@@ -2,10 +2,7 @@
 
 ## Termine
 
-### Nächste Termine:
-
- * **07.04., 14:00** (Design, Themenfindung)
- * **08.04., 16:00** (Projektkickoff)
+### Nächster Termin: 12.04. (Zeit TBD): Projektkickoff
 
 ### 16.03. - Orga, Elektronik 1
 
@@ -19,6 +16,10 @@
 
 ### 25.03. - ESP8266 & Kommunikationsprotokolle
 
+### 07.04. - Design, Rahmenthema
+
+### 08.04. - Poster-Session
+
 ## Links
 
 ### Organisatorisches
@@ -31,6 +32,15 @@ Fritzing (Schaltpläne erstellen):
 
 Mural (Brainstorming):
 <https://app.mural.co/t/urmi4580/m/urmi4580/1617786241711/8d9c314af7393b0c50526fad23897fffb63e86d9>
+
+### Webshops
+
+ * Reichelt (<https://www.reichelt.de/>): Akzeptable Preise, gute Auswahl, Lieferzeit ok. Das ist der Shop der Wahl.
+ * Conrad (<https://www.conrad.de/>): Recht teuer, nur "Standardbauteile", aber schnelle Lieferung.
+ * Pollin (<https://www.pollin.de/>): Sehr günstig, wechselndes Sortiment. Hat auch viel anderes Zeug.
+ * Eckstein (<https://eckstein-shop.de/>): Recht teuer, große Auswahl.
+ * Exp-Tech (<https://www.exp-tech.de/>): Recht teuer, große Auswahl.
+ * Farnell (<https://de.farnell.com/>): Profi-Shop, quasi umfassendes Sortiment (vor allem low-level-Zeug). Leider lange Lieferzeit und sehr hohe Versandkosten.
 
 ### PlatformIO IDE
 
