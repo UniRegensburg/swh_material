@@ -2,7 +2,7 @@
 
 ## Termine
 
-### Nächster Termin: 12.04. (Zeit TBD): Projektkickoff
+### Nächster Termin: 26.04. (Zeit TBD): Abschlusspräsentation
 
 ### 16.03. - Orga, Elektronik 1
 
@@ -19,6 +19,12 @@
 ### 07.04. - Design, Rahmenthema
 
 ### 08.04. - Poster-Session
+
+### 12.04. - Projektkickoff
+
+### 21.04. - Fertigstellung Prototyp
+
+### 26.04. - Projektabgabe + Abschlusspräsentation
 
 ## Links
 
