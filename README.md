@@ -2,34 +2,42 @@
 
 ## Termine
 
-### TBD - Orga, Elektronik 1
+### Nächster Termin: 26.04. (Zeit TBD): Abschlusspräsentation
 
-### TBD - Elektronik 2, Datenblätter
+### 16.03. - Orga, Elektronik 1
 
-### TBD - Löten
+### 17.03. - Elektronik 2, Datenblätter
 
-### TBD - Einführung Arduino
+### 19.03. - Löten
 
-### TBD - Libraries & Serielle Protokolle
+### 20.03. - Einführung Arduino
 
-### TBD - ESP8266 & Kommunikationsprotokolle
+### 23.03. - Libraries & Serielle Protokolle
 
-### TBD - Design, Rahmenthema
+### 25.03. - ESP8266 & Kommunikationsprotokolle
 
-### TBD - Poster-Session
+### 07.04. - Design, Rahmenthema
 
-### TBD - Projektkickoff
+### 08.04. - Poster-Session
 
-### TBD - Fertigstellung Prototyp
+### 12.04. - Projektkickoff
 
-### TBD - Projektabgabe + Abschlusspräsentation
+### 21.04. - Fertigstellung Prototyp
+
+### 26.04. - Projektabgabe + Abschlusspräsentation
 
 ## Links
 
 ### Organisatorisches
 
+BigBlueButton (virtueller Hörsaal):
+<https://bbb.vigitia.de/b/and-w37-w6w>
+
 Fritzing (Schaltpläne erstellen):
 <https://fritzing.org>
+
+Mural (Brainstorming):
+<https://app.mural.co/t/urmi4580/m/urmi4580/1617786241711/8d9c314af7393b0c50526fad23897fffb63e86d9>
 
 ### Webshops
 
